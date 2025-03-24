@@ -38,7 +38,7 @@ The project consists of several **core classes**, each responsible for a specifi
 - Represents an **individual patient** with attributes:  
   - `name` – Full name of the patient.  
   - `age` – Age of the patient.  
-  - 'iselective'- check elective or not.
+   `iselective` – Boolean value to check if the patient is elective or not.
 
 #### 4️⃣ **MedicalFacility.java** 🏥 (Facility Management)  
 - Represents a **hospital or clinic** with attributes:  
