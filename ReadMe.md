@@ -94,7 +94,7 @@ The system supports **file-based storage**, ensuring that user data is saved acr
    ```  
 3️⃣ **Compile the Source Code** – Run the following command to compile the Java files:  
    ```bash
-   javac MedicalGUI.java HealthService.java Patient.java Facility.java MedicalFacility.java Procedure.java FileHandler.java
+   javac MedicalGUI.java HealthService.java Patient.java Facility.java MedicalFacility.java Procedure.Clinic.java
    ```  
 4️⃣ **Run the Application** – Launch the system with:  
    ```bash
